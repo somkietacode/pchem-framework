@@ -117,7 +117,7 @@ We welcome contributions! Please see our:
 - [Roadmap](ROADMAP.md)
 
 To report bugs or request features:
-- [Open an Issue](https://github.com/your-username/pchem-framework/issues)
+- [Open an Issue](https://github.com/somkietacode/pchem-framework/issues)
 
 ## License 📄
 
@@ -126,15 +126,15 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Support ☕
 
 If you find this project useful, please consider:
-- [Starring the Repository](https://github.com/your-username/pchem-framework)
+- [Starring the Repository](https://github.com/somkietacode/pchem-framework)
 - Citing us in your publications:
   ```bibtex
   @software{pchem_framework,
     title={Practical Chemistry Framework},
-    author={Your Name},
+    author={OUEDRAOGO Somkieta},
     year={2024},
     publisher={GitHub},
     journal={GitHub repository},
-    howpublished={\url{https://github.com/your-username/pchem-framework}}
+    howpublished={\url{https://github.com/somkietacode/pchem-framework}}
   }
   ```
